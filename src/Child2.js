@@ -13,7 +13,7 @@ const Child2 = () => {
 
             <button onClick={() => dispatch('INCREMENT')} > Increment Reducer </button>
 
-            <h3>Change for Auto Deployment Check </h3>
+            <h3>Change for Auto Deployment Check 2</h3>
         </div>
     )
 
